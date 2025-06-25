@@ -5,7 +5,7 @@ Assignments completed as part of COMP90018 – Mobile Computing Systems Programm
 ## 📝 Contents
 
 - `assignment1/` – Research project on Instant Apps
-- `assignment2/` – Designed and built an Android app that utilises multiple sensors on your Android device on Java
+- `assignment2/` – Designed and built an Android app that utilises multiple sensors on your Android device in Java
 
 ## 💡 Topics Covered In Subject
 
