@@ -1,0 +1,40 @@
+{
+  "name": "rambo-rabbit",
+  "version": "1.0.0",
+  "description": "Project repo for team The Rambo Rabbit for Distributed Algorithms (COMP90020) during 2022 SM1",
+  "main": "index.ts",
+  "dependencies": {
+    "typescript": "^4.6.4",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.25",
+    "@typescript-eslint/eslint-plugin": "^5.19.0",
+    "@typescript-eslint/parser": "^5.19.0",
+    "eslint": "^8.13.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.6.2"
+  },
+  "scripts": {
+    "build": "npx tsc",
+    "paxos": "npx tsc && node build/weakLeader/paxos.js",
+    "epaxos": "npx tsc && node build/epaxos/paxos.js",
+    "strongpaxos": "npx tsc && node build/strongLeader/paxos.js",
+    "basic": "npx tsc && node build/broadcast/server.js",
+    "single": "npx tsc && node build/pixelbot.js",
+    "client": "npx tsc && node build/imagebot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChuanyuanLiu/rambo-rabbit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChuanyuanLiu/rambo-rabbit/issues"
+  },
+  "homepage": "https://github.com/ChuanyuanLiu/rambo-rabbit#readme"
+}
