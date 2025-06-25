@@ -1,0 +1,370 @@
+
+=============================== Log Started [2020-08-23 17:43:28 AEST] ===============================
+[2020-08-23 17:43:30,237:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-23 17:43:32,666:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-23 17:43:33,420:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+
+=============================== Log Started [2020-08-23 17:47:33 AEST] ===============================
+[2020-08-23 17:47:35,770:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-23 17:47:38,342:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-23 17:47:38,343:         agent.DSBot]:     INFO - Market(1572,widget,Widget,False)
+[2020-08-23 17:47:38,343:         agent.DSBot]:     INFO - Market(1573,privateWidget,PrivateWidget,True)
+[2020-08-23 17:47:39,087:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+[2020-08-23 17:47:39,099:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+
+=============================== Log Started [2020-08-23 17:52:35 AEST] ===============================
+[2020-08-23 17:52:37,799:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-23 17:52:40,007:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-23 17:52:40,007:         agent.DSBot]:     INFO - Market(1572,widget,Widget,False)
+[2020-08-23 17:52:40,007:         agent.DSBot]:     INFO - Market(1573,privateWidget,PrivateWidget,True)
+[2020-08-23 17:52:40,762:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+
+=============================== Log Started [2020-08-23 17:54:09 AEST] ===============================
+[2020-08-23 17:54:11,744:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-23 17:54:13,974:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-23 17:54:13,975:         agent.DSBot]:     INFO - Market(1572,widget,Widget,False)
+[2020-08-23 17:54:13,976:         agent.DSBot]:     INFO - Market(1573,privateWidget,PrivateWidget,True)
+[2020-08-23 17:54:14,633:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+[2020-08-23 17:54:14,737:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+
+=============================== Log Started [2020-08-23 17:54:28 AEST] ===============================
+[2020-08-23 17:54:30,208:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-23 17:54:32,408:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+
+=============================== Log Started [2020-08-23 18:11:00 AEST] ===============================
+[2020-08-23 18:11:02,823:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-23 18:11:05,337:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+
+=============================== Log Started [2020-08-23 18:12:57 AEST] ===============================
+[2020-08-23 18:12:59,683:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-23 18:13:02,446:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-23 18:13:02,447:         agent.DSBot]:     INFO - Market(1572,widget,Widget,False)
+[2020-08-23 18:13:02,447:         agent.DSBot]:     INFO - Market(1573,privateWidget,PrivateWidget,True)
+[2020-08-23 18:13:03,208:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+
+=============================== Log Started [2020-08-23 18:17:05 AEST] ===============================
+[2020-08-23 18:17:08,005:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-23 18:17:10,361:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-23 18:17:10,362:         agent.DSBot]:     INFO - Market(1572,widget,Widget,False)
+[2020-08-23 18:17:10,362:         agent.DSBot]:     INFO - Market(1573,privateWidget,PrivateWidget,True)
+[2020-08-23 18:17:11,132:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+
+=============================== Log Started [2020-08-23 22:37:10 AEST] ===============================
+[2020-08-23 22:37:12,800:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-23 22:37:16,074:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-23 22:37:16,075:         agent.DSBot]:    ERROR - Exception in DSBot.initialised() method. Run with DEBUG for details.
+
+=============================== Log Started [2020-08-23 23:19:56 AEST] ===============================
+[2020-08-23 23:19:59,148:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-23 23:20:01,524:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-23 23:20:01,525:         agent.DSBot]:    ERROR - Exception in DSBot.initialised() method. Run with DEBUG for details.
+
+=============================== Log Started [2020-08-23 23:20:01 AEST] ===============================
+[2020-08-23 23:20:03,957:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-23 23:20:06,417:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-23 23:20:06,418:         agent.DSBot]:    ERROR - Exception in DSBot.initialised() method. Run with DEBUG for details.
+[2020-08-23 23:20:07,181:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+
+=============================== Log Started [2020-08-23 23:21:35 AEST] ===============================
+[2020-08-23 23:21:37,364:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-23 23:21:39,739:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-23 23:21:39,740:         agent.DSBot]:    ERROR - Exception in DSBot.initialised() method. Run with DEBUG for details.
+[2020-08-23 23:21:40,507:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+
+=============================== Log Started [2020-08-23 23:23:52 AEST] ===============================
+[2020-08-23 23:23:55,022:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-23 23:23:57,194:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-23 23:23:57,195:         agent.DSBot]:    ERROR - Exception in DSBot.initialised() method. Run with DEBUG for details.
+[2020-08-23 23:23:57,963:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+
+=============================== Log Started [2020-08-23 23:24:31 AEST] ===============================
+[2020-08-23 23:24:33,392:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-23 23:24:35,851:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-23 23:24:35,852:         agent.DSBot]:     INFO - Market(1572,widget,Widget,False)
+
+=============================== Log Started [2020-08-23 23:25:37 AEST] ===============================
+[2020-08-23 23:25:39,338:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-23 23:25:41,896:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-23 23:25:41,897:         agent.DSBot]:     INFO - Market(1572,widget,Widget,False)
+[2020-08-23 23:25:41,897:         agent.DSBot]:    ERROR - Exception in DSBot.initialised() method. Run with DEBUG for details.
+[2020-08-23 23:25:42,657:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+
+=============================== Log Started [2020-08-23 23:27:32 AEST] ===============================
+[2020-08-23 23:27:34,846:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-23 23:27:37,233:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-23 23:27:37,235:         agent.DSBot]:     INFO - Market(1572,widget,Widget,False)
+
+=============================== Log Started [2020-08-23 23:28:03 AEST] ===============================
+[2020-08-23 23:28:05,770:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-23 23:28:08,230:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-23 23:28:08,231:         agent.DSBot]:     INFO - Market(1572,widget,Widget,False)
+[2020-08-23 23:28:08,231:         agent.DSBot]:     INFO - Market(1573,privateWidget,PrivateWidget,True)
+[2020-08-23 23:28:08,992:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+
+=============================== Log Started [2020-08-23 23:29:04 AEST] ===============================
+[2020-08-23 23:29:07,522:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-23 23:29:09,838:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-23 23:29:10,599:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+[2020-08-23 23:29:10,601:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-23 23:29:10,602:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-23 23:29:32,303:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-23 23:29:33,134:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-23 23:30:03,771:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+[2020-08-23 23:30:04,223:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+
+=============================== Log Started [2020-08-24 00:07:45 AEST] ===============================
+[2020-08-24 00:07:48,529:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-24 00:07:50,987:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-24 00:07:51,752:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+[2020-08-24 00:07:51,754:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-24 00:07:51,755:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-24 00:38:21,498:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+[2020-08-24 00:38:21,501:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-24 00:38:21,502:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-24 00:42:29,571:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+[2020-08-24 00:42:29,574:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-24 00:42:29,575:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-24 01:17:49,391:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+[2020-08-24 01:17:49,395:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-24 01:17:49,396:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-24 01:48:21,452:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+[2020-08-24 01:48:21,457:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-24 01:48:21,457:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+
+=============================== Log Started [2020-08-24 01:54:41 AEST] ===============================
+[2020-08-24 01:54:44,526:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-24 01:54:46,929:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+
+=============================== Log Started [2020-08-24 01:56:07 AEST] ===============================
+[2020-08-24 01:56:09,960:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-24 01:56:12,184:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-24 01:56:12,945:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+[2020-08-24 01:56:33,895:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-24 01:56:35,247:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+
+=============================== Log Started [2020-08-24 02:00:21 AEST] ===============================
+[2020-08-24 02:00:23,369:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-24 02:00:25,743:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-24 02:00:26,508:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+[2020-08-24 02:04:33,023:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-24 02:04:33,762:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+
+=============================== Log Started [2020-08-24 02:31:40 AEST] ===============================
+[2020-08-24 02:31:43,129:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-24 02:31:45,589:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-24 02:31:46,354:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+[2020-08-24 02:31:53,749:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-24 02:31:54,834:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-24 02:32:10,611:         agent.DSBot]:    ERROR - Exception in DSBot.received_orders() method. Run with DEBUG for details.
+
+=============================== Log Started [2020-08-24 02:32:36 AEST] ===============================
+[2020-08-24 02:32:38,221:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-24 02:32:40,577:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-24 02:32:41,340:         agent.DSBot]:     INFO - Session: SID:13237:SessionState.OPEN
+[2020-08-24 02:32:49,555:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-24 02:32:50,506:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+
+=============================== Log Started [2020-08-24 21:13:36 AEST] ===============================
+[2020-08-24 21:13:39,021:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-24 21:13:41,281:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-24 21:13:42,304:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-24 21:13:49,124:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-24 21:13:50,020:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-24 21:13:59,109:         agent.DSBot]:    ERROR - Exception in DSBot.received_orders() method. Run with DEBUG for details.
+
+=============================== Log Started [2020-08-24 21:14:45 AEST] ===============================
+[2020-08-24 21:14:49,479:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-24 21:14:51,782:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-24 21:14:52,545:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-24 21:14:54,500:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-24 21:14:55,517:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-24 21:14:58,239:         agent.DSBot]:    ERROR - Exception in DSBot.received_orders() method. Run with DEBUG for details.
+
+=============================== Log Started [2020-08-24 21:17:37 AEST] ===============================
+[2020-08-24 21:17:39,675:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-24 21:17:42,129:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-24 21:17:42,890:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-24 21:17:47,315:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-24 21:17:48,344:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-24 21:17:56,815:         agent.DSBot]:    ERROR - Exception in DSBot.received_orders() method. Run with DEBUG for details.
+
+=============================== Log Started [2020-08-24 21:18:02 AEST] ===============================
+[2020-08-24 21:18:04,757:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-24 21:18:07,318:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-24 21:18:08,094:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-24 21:18:09,737:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-24 21:18:10,066:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+
+=============================== Log Started [2020-08-24 21:18:57 AEST] ===============================
+[2020-08-24 21:18:59,646:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-24 21:19:01,946:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-24 21:19:02,709:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-24 21:19:04,192:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-24 21:19:04,515:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-24 21:19:54,810:         agent.DSBot]:    ERROR - Exception in DSBot.received_orders() method. Run with DEBUG for details.
+
+=============================== Log Started [2020-08-24 21:19:59 AEST] ===============================
+[2020-08-24 21:20:01,495:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-24 21:20:03,953:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-24 21:20:04,715:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-24 21:20:06,895:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-24 21:20:07,272:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+
+=============================== Log Started [2020-08-26 17:17:25 AEST] ===============================
+[2020-08-26 17:17:27,379:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-26 17:17:29,715:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-26 17:17:30,515:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-26 17:18:09,230:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-26 17:18:10,183:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-26 17:18:11,047:         agent.DSBot]:    ERROR - Exception in DSBot.received_orders() method. Run with DEBUG for details.
+
+=============================== Log Started [2020-08-26 17:19:24 AEST] ===============================
+[2020-08-26 17:19:26,110:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-26 17:19:28,256:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-26 17:19:29,025:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-26 17:19:31,817:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-26 17:19:32,878:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-26 17:19:36,454:         agent.DSBot]:    ERROR - Exception in DSBot.received_orders() method. Run with DEBUG for details.
+
+=============================== Log Started [2020-08-26 17:19:52 AEST] ===============================
+[2020-08-26 17:19:54,004:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-26 17:19:56,180:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-26 17:19:56,945:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-26 17:19:59,628:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-26 17:20:00,337:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+
+=============================== Log Started [2020-08-26 17:21:02 AEST] ===============================
+[2020-08-26 17:21:04,869:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-26 17:21:08,506:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-26 17:21:09,273:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-26 17:21:12,691:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-26 17:21:13,398:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-26 17:21:22,712:         agent.DSBot]:    ERROR - Exception in DSBot.received_orders() method. Run with DEBUG for details.
+
+=============================== Log Started [2020-08-26 17:21:46 AEST] ===============================
+[2020-08-26 17:21:48,060:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-26 17:21:50,169:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-26 17:21:50,928:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-26 17:21:52,645:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-26 17:21:53,335:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+
+=============================== Log Started [2020-08-26 17:23:18 AEST] ===============================
+[2020-08-26 17:23:22,086:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-26 17:23:24,303:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-26 17:23:25,065:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-26 17:23:30,098:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-26 17:23:30,657:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-26 17:24:08,949:         agent.DSBot]:    ERROR - Exception in DSBot.received_orders() method. Run with DEBUG for details.
+
+=============================== Log Started [2020-08-26 17:25:07 AEST] ===============================
+[2020-08-26 17:25:09,344:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-26 17:25:11,367:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-26 17:25:12,130:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-26 17:25:25,093:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-26 17:25:25,467:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-26 17:26:05,935:         agent.DSBot]:    ERROR - Exception in DSBot.received_orders() method. Run with DEBUG for details.
+[2020-08-26 17:26:06,245:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-26 17:26:13,740:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-26 17:26:14,816:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-26 17:26:48,875:         agent.DSBot]:    ERROR - Exception in DSBot.received_orders() method. Run with DEBUG for details.
+[2020-08-26 17:26:48,889:       comms.Request]:    ERROR - Server Timeout: Connection timeout to host https://guarded-ridge-89710.herokuapp.com/api/orders; POST https://guarded-ridge-89710.herokuapp.com/api/orders
+[2020-08-26 17:26:51,662:         agent.DSBot]:    ERROR - Exception in DSBot.order_rejected() method. Run with DEBUG for details.
+
+=============================== Log Started [2020-08-26 17:26:56 AEST] ===============================
+[2020-08-26 17:26:58,636:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-26 17:27:00,681:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-26 17:27:01,440:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-26 17:27:04,519:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-26 17:27:05,285:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+
+=============================== Log Started [2020-08-26 18:01:43 AEST] ===============================
+[2020-08-26 18:01:45,808:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-26 18:01:47,883:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-26 18:01:48,642:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-26 18:05:00,190:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-26 18:05:00,793:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-26 18:43:39,511:         agent.DSBot]:    ERROR - Exception in DSBot.received_orders() method. Run with DEBUG for details.
+[2020-08-26 18:43:41,401:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-26 18:44:25,253:         agent.DSBot]:    ERROR - Exception in DSBot.received_orders() method. Run with DEBUG for details.
+[2020-08-26 18:44:33,142:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-26 18:44:33,610:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-26 18:44:33,811:       comms.Request]:    ERROR - Server Timeout: ; POST https://guarded-ridge-89710.herokuapp.com/api/orders
+[2020-08-26 18:44:34,020:         agent.DSBot]:    ERROR - Exception in DSBot.order_rejected() method. Run with DEBUG for details.
+[2020-08-26 18:44:54,880:         agent.DSBot]:    ERROR - Exception in DSBot.received_orders() method. Run with DEBUG for details.
+[2020-08-26 18:45:00,177:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-26 18:45:00,807:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-26 18:45:23,743:         agent.DSBot]:    ERROR - Exception in DSBot.received_orders() method. Run with DEBUG for details.
+[2020-08-26 18:46:03,852:         agent.DSBot]:    ERROR - Exception in DSBot.received_orders() method. Run with DEBUG for details.
+[2020-08-26 18:46:03,876:       comms.Request]:    ERROR - Server Timeout: Connection timeout to host https://guarded-ridge-89710.herokuapp.com/api/orders; POST https://guarded-ridge-89710.herokuapp.com/api/orders
+[2020-08-26 18:46:07,558:         agent.DSBot]:    ERROR - Exception in DSBot.order_rejected() method. Run with DEBUG for details.
+[2020-08-26 18:46:14,613:         agent.DSBot]:    ERROR - Exception in DSBot.received_orders() method. Run with DEBUG for details.
+[2020-08-26 18:46:19,836:         agent.DSBot]:    ERROR - Exception in DSBot.order_accepted() method. Run with DEBUG for details.
+
+=============================== Log Started [2020-08-26 18:46:33 AEST] ===============================
+[2020-08-26 18:46:35,413:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-26 18:46:37,481:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-26 18:46:38,243:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-26 18:46:42,055:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-26 18:46:42,899:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-08-26 18:47:23,044:         agent.DSBot]:    ERROR - Exception in DSBot.order_accepted() method. Run with DEBUG for details.
+
+=============================== Log Started [2020-08-26 18:47:48 AEST] ===============================
+[2020-08-26 18:47:50,991:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+
+=============================== Log Started [2020-08-26 18:47:50 AEST] ===============================
+[2020-08-26 18:47:51,937:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-26 18:47:53,067:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-26 18:47:53,824:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-26 18:47:53,993:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-26 18:47:54,757:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+
+=============================== Log Started [2020-08-26 18:48:01 AEST] ===============================
+[2020-08-26 18:48:03,394:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-26 18:48:05,456:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-26 18:48:06,217:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-26 18:48:12,248:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-26 18:48:13,075:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+
+=============================== Log Started [2020-08-26 18:49:53 AEST] ===============================
+[2020-08-26 18:49:55,122:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-08-26 18:49:57,181:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-08-26 18:49:57,942:         agent.DSBot]:     INFO - Session: SID:13473:SessionState.OPEN
+[2020-08-26 19:03:03,857:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-08-26 19:03:04,512:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+
+=============================== Log Started [2020-09-04 01:28:22 AEST] ===============================
+[2020-09-04 01:28:24,401:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-09-04 01:28:26,859:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-09-04 01:28:27,622:         agent.DSBot]:     INFO - Session: SID:14288:SessionState.OPEN
+[2020-09-04 01:28:27,623:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-09-04 01:28:27,623:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+
+=============================== Log Started [2020-09-04 01:29:46 AEST] ===============================
+[2020-09-04 01:29:48,449:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-09-04 01:29:50,620:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-09-04 01:29:51,359:         agent.DSBot]:     INFO - Session: SID:14288:SessionState.OPEN
+[2020-09-04 01:29:51,360:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-09-04 01:29:51,361:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-09-04 01:29:51,385:         agent.DSBot]:     INFO - Session: SID:14288:SessionState.OPEN
+[2020-09-04 01:29:54,803:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-09-04 01:29:56,033:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-09-04 01:36:05,281:         agent.DSBot]:     INFO - Session: SID:14288:SessionState.OPEN
+[2020-09-04 01:36:05,282:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-09-04 01:36:05,282:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+
+=============================== Log Started [2020-09-04 01:36:07 AEST] ===============================
+[2020-09-04 01:36:10,633:         agent.DSBot]:     INFO - Requesting initial information for marketplace `898`
+[2020-09-04 01:36:13,093:         agent.DSBot]:     INFO - Initialisation complete. Received marketplace information.
+[2020-09-04 01:36:13,845:         agent.DSBot]:     INFO - Session: SID:14288:SessionState.OPEN
+[2020-09-04 01:36:13,846:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-09-04 01:36:13,846:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-09-04 01:36:13,854:         agent.DSBot]:     INFO - Session: SID:14288:SessionState.OPEN
+[2020-09-04 01:36:20,088:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),15,15,15,0,True,True)
+[2020-09-04 01:36:20,464:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-09-04 01:38:26,430:         agent.DSBot]:     INFO - I am a Role.BUYER with profitable order Order(10961318,Others,SELL,3@649,M-1572,LIMIT,REF:'fm-ui 2.0.0-beta.48') and I will be taking it.
+[2020-09-04 01:38:52,844:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),16,16,15,0,True,True)
+[2020-09-04 01:38:52,845:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
+[2020-09-04 01:38:57,402:         agent.DSBot]:    ERROR - Exception in DSBot.order_accepted() method. Run with DEBUG for details.
+[2020-09-04 01:58:43,240:         agent.DSBot]:     INFO - Session: SID:14288:SessionState.OPEN
+[2020-09-04 01:58:43,245:         agent.DSBot]:     INFO - Asset(Market(1572,widget,Widget,False),16,16,15,0,True,True)
+[2020-09-04 01:58:43,245:         agent.DSBot]:     INFO - Asset(Market(1573,privateWidget,PrivateWidget,True),15,15,15,0,True,True)
