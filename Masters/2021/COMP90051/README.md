@@ -4,8 +4,8 @@ Assignments completed as part of COMP90051 – Statistical Machine Learning at t
 
 ## 📝 Contents
 
-- `assignment1/` – Parallelised Twitter sentiment analysis across Melbourne grid cells using Python on SPARTAN HPC
-- `assignment2/` – Built a Python + TypeScript system for city tweet analytics with CouchDB and AURIN integration
+- `assignment1/` – Trained machine learning model for link prediction in network graph on Jupyter Notebook in Python
+- `assignment2/` – Trained NLP models using query-by-committee and hierarchical sampling on Jupyter Notebook in Python
 
 ## 💡 Topics Covered In Subject
 
