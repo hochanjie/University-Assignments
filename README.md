@@ -6,6 +6,6 @@ This repository contains selected programming and technical assignments complete
 - `Bachelors/` – Bachelor of Science (Computing and Software Systems major, Finance breadth)
 - `Masters/` – Master of Information Technology (Distributed Computing specialisation)
 
-Each folder is organised by year and semester, with subfolders for individual subjects.
+Each folder is organised by year, with subfolders for individual subjects.
 
 > ⚠️ All code is for educational showcase only. Do not copy or reuse for academic submission.
