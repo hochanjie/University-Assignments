@@ -1,0 +1,12 @@
+d d 15
+a c 5
+b d 3
+a b 1
+b e 4
+c d 1
+e f 2
+c f 3    
+d e 5
+d f 10
+b c 2
+e f 1
