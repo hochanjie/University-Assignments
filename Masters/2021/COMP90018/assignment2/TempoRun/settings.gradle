@@ -1,0 +1,2 @@
+rootProject.name = "temporun"
+include ':app'

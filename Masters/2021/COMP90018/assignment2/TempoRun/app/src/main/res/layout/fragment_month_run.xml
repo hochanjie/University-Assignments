@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    tools:context=".fragments.MonthRunFragment">
+
+    <FrameLayout
+        android:id="@+id/month_frame_layout"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="28dp" />
+
+    <Button
+        android:id="@+id/timeBtn"
+        android:layout_width="110dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="205dp"
+        android:backgroundTint="#3168D8"
+        android:stateListAnimator="@null"
+        android:text="Time"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"
+        app:cornerRadius="90dp" />
+
+    <Button
+        android:id="@+id/distanceBtn"
+        android:layout_width="110dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="180dp"
+        android:layout_marginTop="205dp"
+        android:backgroundTint="#FFFFFF"
+        android:stateListAnimator="@null"
+        android:text="Distance"
+        android:textColor="#3168D8"
+        android:textSize="14sp"
+        app:cornerRadius="90dp" />
+
+</FrameLayout>

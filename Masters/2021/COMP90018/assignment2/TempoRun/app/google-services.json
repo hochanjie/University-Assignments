@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478337778813",
+    "firebase_url": "https://tempo-run-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tempo-run",
+    "storage_bucket": "tempo-run.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478337778813:android:33fe63ab3f0d6e2b611d14",
+        "android_client_info": {
+          "package_name": "com.team16_2.temporun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478337778813-ca30hn8gschu2shuqdmgieckpuejlp3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf-ChSFZeEORQeLku8bGRWJmJStmz4-QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478337778813-ca30hn8gschu2shuqdmgieckpuejlp3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
