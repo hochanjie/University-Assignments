@@ -1,0 +1,13 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label=<STI mean &le; -0.167<br/>gini = 0.451<br/>samples = 32<br/>value = [11, 21]<br/>class = City>, fillcolor="#399de579"] ;
+1 [label=<Fertility mean &le; 0.325<br/>gini = 0.105<br/>samples = 18<br/>value = [1, 17]<br/>class = City>, fillcolor="#399de5f0"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label=<gini = 0.0<br/>samples = 17<br/>value = [0, 17]<br/>class = City>, fillcolor="#399de5ff"] ;
+1 -> 2 ;
+3 [label=<gini = 0.0<br/>samples = 1<br/>value = [1, 0]<br/>class = Rural>, fillcolor="#e58139ff"] ;
+1 -> 3 ;
+4 [label=<gini = 0.408<br/>samples = 14<br/>value = [10, 4]<br/>class = Rural>, fillcolor="#e5813999"] ;
+0 -> 4 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
