@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="client.DictClient">
+  <grid id="27dc6" binding="mainPanel" layout-manager="GridLayoutManager" row-count="2" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="19" y="20" width="605" height="469"/>
+    </constraints>
+    <properties>
+      <enabled value="false"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="249ff" binding="headerPanel" layout-manager="GridLayoutManager" row-count="2" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="1" fill="1" indent="0" use-parent-layout="false">
+            <minimum-size width="600" height="100"/>
+            <maximum-size width="-1" height="100"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-13882324"/>
+          <enabled value="true"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="fc456" class="javax.swing.JLabel" binding="headerLabel">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="2" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Nexa Light" size="28" style="2"/>
+              <foreground color="-5460820"/>
+              <horizontalAlignment value="0"/>
+              <text value="Distributed Dictionary"/>
+            </properties>
+          </component>
+          <component id="b826a" class="javax.swing.JButton" binding="fullDictButton">
+            <constraints>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+                <minimum-size width="-1" height="50"/>
+              </grid>
+            </constraints>
+            <properties>
+              <font name="Nexa Light" size="18"/>
+              <text value="Full Dictionary"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="6c586" binding="interactivePanel" layout-manager="GridLayoutManager" row-count="5" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false">
+            <minimum-size width="600" height="150"/>
+          </grid>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="3a616" class="javax.swing.JComboBox" binding="searchBox">
+            <constraints>
+              <grid row="1" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="2" anchor="8" fill="0" indent="0" use-parent-layout="false">
+                <minimum-size width="600" height="30"/>
+              </grid>
+            </constraints>
+            <properties>
+              <editable value="true"/>
+              <font name="Nexa Light"/>
+              <model>
+                <item value=""/>
+                <item value="Zee"/>
+                <item value="Geoff"/>
+                <item value="Why"/>
+                <item value="Do"/>
+                <item value="You"/>
+                <item value="Confuse"/>
+                <item value="Me"/>
+              </model>
+            </properties>
+          </component>
+          <component id="f89a3" class="javax.swing.JButton" binding="searchButton" default-binding="true">
+            <constraints>
+              <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+                <minimum-size width="-1" height="50"/>
+              </grid>
+            </constraints>
+            <properties>
+              <font name="Nexa Light" size="18"/>
+              <text value="Search"/>
+              <toolTipText value="Search up a word's meaning"/>
+            </properties>
+          </component>
+          <component id="c567b" class="javax.swing.JButton" binding="removeButton">
+            <constraints>
+              <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+                <minimum-size width="-1" height="50"/>
+              </grid>
+            </constraints>
+            <properties>
+              <font name="Nexa Light" size="18"/>
+              <text value="Remove"/>
+              <toolTipText value="Remove a word from the dictionary"/>
+            </properties>
+          </component>
+          <component id="2c64a" class="javax.swing.JButton" binding="updateButton">
+            <constraints>
+              <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+                <minimum-size width="-1" height="50"/>
+              </grid>
+            </constraints>
+            <properties>
+              <enabled value="true"/>
+              <font name="Nexa Light" size="18"/>
+              <text value="Update"/>
+              <toolTipText value="Update an existing word's meaning"/>
+            </properties>
+          </component>
+          <component id="8d810" class="javax.swing.JLabel" binding="enterLabel">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="2" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Nexa Light" size="16" style="2"/>
+              <text value="Enter a word below!"/>
+            </properties>
+          </component>
+          <component id="61e50" class="javax.swing.JCheckBox" binding="doNotSuggestWordCheckBox">
+            <constraints>
+              <grid row="2" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <enabled value="true"/>
+              <font name="Nexa Light" size="14" style="2"/>
+              <selected value="false"/>
+              <text value="Do not suggest word"/>
+            </properties>
+          </component>
+          <component id="cf7ab" class="javax.swing.JButton" binding="addButton">
+            <constraints>
+              <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+                <minimum-size width="-1" height="50"/>
+              </grid>
+            </constraints>
+            <properties>
+              <font name="Nexa Light" size="18"/>
+              <text value="Add"/>
+              <toolTipText value="Add a word to the dictionary"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>
